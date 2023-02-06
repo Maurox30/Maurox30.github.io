@@ -1,0 +1,304 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="author" content="Mauro Carrillo">
+    <meta name="description" content="Ejercicio sobre creacion de Curriculum vitae / Argentina Programa 4.0"/>
+    <!-- bootstrap-->
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0-alpha1/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-GLhlTQ8iRABdZLl6O3oVMWSktQOp6b7In1Zl3/Jr59b6EGGoI1aFkw7cmDA6j6gD" crossorigin="anonymous">
+    <!-- css-->
+    <link rel="stylesheet" type="text/css" href="css/cv.css">
+    <title>Curriculum vitae</title>
+    
+</head>
+<body>
+    <ul class="nav justify-content-center">
+        <li class="nav-item">
+          <a class="nav-link active" aria-current="page" href="#">Github</a>
+        </li>
+        <li class="nav-item">
+          <a class="nav-link" href="cv_reales.html">Datos Reales</a>
+        </li>
+        <li class="nav-item">
+          <a class="nav-link" href="bootstrap.html">Datos Cargados con JSON</a>
+        </li>
+        
+      </ul>
+    
+
+    <div class="container text-center ">
+        <h1  >Curriculum vitae</h1>
+        
+
+    </div>   
+
+    
+    <div class="conteneiner text-center mx-5">
+        
+        <div class="row">
+            <div class="col-12 mb-2">
+                <a class="nav-link" href="#datos" data-scroll>
+                <img class="imagen_seccion"  src="imagenes/datos.png" class="img-thumbnail" alt="" >
+                <h3 class="subtitulo text-primary">Datos Personales</h3></a>
+            </div>
+        </div>
+        <div class="row">
+            <div class="col-12 mb-2">
+                <a class="nav-link" href="#academico" data-scroll>
+                <img class="imagen_seccion"  src="imagenes/academico.jpg" class="img-thumbnail" alt="" >
+                <h3 class="subtitulo text-secondary" >Datos Académicos</h3></a>
+            </div>
+        </div>
+        <div class="row">
+            <div class="col-12 mb-2">  
+                <a class="nav-link" href="#laboral" data-scroll>
+                <img class="imagen_seccion"  src="imagenes/laboral.jpg" class="img-thumbnail" alt="" >
+                <h3 class="subtitulo text-success">Datos Laborales</h3></a>
+            </div>
+        </div>
+        <div class="row">
+            <div class="col-12 mb-2">
+                <a class="nav-link" href="#contacto" data-scroll>
+                   
+                <img class="imagen_seccion"  src="imagenes/contacto.jpg" class="img-thumbnail" alt="" >
+                <h3 class="subtitulo text-warning">Datos de Contacto</h3></a>
+            </div>
+        </div>
+    </div>
+
+    
+
+  
+    
+        
+       <!-- <div class="container align-items-center text-center">
+            <div class="container col-8 mx-5 text-bg-primary mb-3 ">
+             cargar datos con ajax
+            <div class="row text-center text-bg-primary mb-3">
+                <h3 >Datos Personales</h3>
+            </div>
+            <div class="row text-bg-primary mb-3">
+            
+            
+                <div class="conteiner   col-7 mx-2   ">
+                    <div class="row justify-content-center">
+                        <div class="col-4 offset-md-2"><p > nombre</p></div>
+                        <div class="col-6 "><p id ="nombre" class="datos"> </p></div>
+                    </div>
+                    <div class="row align-items-start">
+                        <div class="col-4 offset-md-2"><p > apellido</p></div>
+                        <div class="col-6"><p id ="apellido" class="datos"> </p></div>
+                    </div>
+                    <div class="row align-items-start">
+                        <div class="col-4 offset-md-2"><p > edad</p></div>
+                        <div class="col-6"><p id ="edad" class="datos"> </p></div>
+                    </div>
+                    <div class="row align-items-start">
+                        <div class="col-4 offset-md-2"><p >fecha de nacimiento </p></div>
+                        <div class="col-6"><p id ="natalicio" class="datos"> </p></div>
+                    </div>
+                    <div class="row align-items-start">
+                        <div class="col-6"><p > nombre</p></div>
+                        <div class="col-6"><p id ="nombre" > </p></div>
+                    </div>
+                   
+                    <div class="col-4"><p id ="apellido"> </p></div>
+                    <div class="col-4"><p id ="calle"> </p></div>
+                    <div class="col-4"><p id ="numero"> </p></div>
+                </div>
+                <div class="container col-4 ">
+                    <div class="col-4"><p id="foto_cv" ></p></div>
+                </div>
+        </div>
+           
+        </div>-->
+
+       
+        <section id="datos">
+            <div class="container justify-content-center text-primary-emphasis my-4"> 
+                <div class="row">
+                    <div class="container col-3">
+                        
+                    </div>
+                     <div class="container col-6 ">
+                        <div class="row text-center"><h2 >Datos Personales</h2>
+                        <div class="row">
+                            <div class="container col-8">
+                                <div class="row">
+                                    <div class="container col-6"><p>Nombre :</p></div>
+                                    <div class="container col-6"><p id ="nombre"></p></div>
+                                </div>
+                                <div class="row">
+                                    <div class="container col-6"><p>Apellido :</p></div>
+                                    <div class="container col-6"><p id ="apellido"></p></div>
+                                </div>
+                                <div class="row">
+                                    <div class="container col-6"><p>Edad :</p></div>
+                                    <div class="container col-6"><p id ="edad"></p></div>
+                                </div>
+                                <div class="row">
+                                    <div class="container col-6"><p>Fecha de Nacimiento</p></div>
+                                    <div class="container col-6"><p id ="natalicio"></p></div>
+                                </div>
+                                <div class="row">
+                                    <div class="container col-6"><p>Sexo</p></div>
+                                    <div class="container col-6"><p id ="genero"></p></div>
+                                </div>
+                                <div class="row">
+                                    <div class="container col-6"><p>Dirección- Calle:</p></div>
+                                    <div class="container col-6"><p id ="calle"></p></div>
+                                </div>
+                                <div class="row">
+                                    <div class="container col-6"><p>Número :</p></div>
+                                    <div class="container col-6"><p id ="numero"></p></div>
+                                </div>
+                                <div class="row">
+                                    <div class="container col-6"><p>Código Postal :</p></div>
+                                    <div class="container col-6"><p id ="cp"></p></div>
+                                </div>
+                                <div class="row">
+                                    <div class="container col-6"><p>Ciudad :</p></div>
+                                    <div class="container col-6"><p id ="ciudad"></p></div>
+                                </div>
+                            </div>
+                            <div class="container col-4">
+                                <p id="foto_cv"></p>
+                            </div>
+                        </div>
+                    </div>
+                    </div>
+                    <div class="container col-3">
+                
+                    </div>
+                </div>
+            </div>
+        </section>
+    
+    <section id="academico" >
+
+        <div class="container col-7 text-center my-4">
+            <div class="row">
+                <div class="col">
+                    <div class="row text-center">
+                        <h2 class="dark">Datos Académicos</h2>
+                    </div>
+                    <table class="table table-dark table-striped table-hover">
+                        <thead>
+                            <tr>
+                                <th>Institución</th>
+                                <th>Certificación</th>
+                                <th>Duración</th>
+                            </tr>
+                        </thead>
+                        <tbody>
+                            <tr>
+                                <th class="institucion"></th>
+                                <th class="certificacion"></th>
+                                <th class="duracion"></th>
+                            </tr>
+                            <tr>
+                                <th class="institucion"></th>
+                                <th class="certificacion"></th>
+                                <th class="duracion"></th>
+                            </tr>
+                            <tr>
+                                <th class="institucion"></th>
+                                <th class="certificacion"></th>
+                                <th class="duracion"></th>
+                            </tr>
+                            <tr>
+                                <th class="institucion"></th>
+                                <th class="certificacion"></th>
+                                <th class="duracion"></th>
+                            </tr>
+                            <tr>
+                                <th class="institucion"></th>
+                                <th class="certificacion"></th>
+                                <th class="duracion"></th>
+                            </tr>
+                            <tr>
+                                <th class="institucion"></th>
+                                <th class="certificacion"></th>
+                                <th class="duracion"></th>
+                            </tr>
+                        </tbody>
+                    </table>
+                </div>
+            </div>
+        </div>
+        
+        
+        
+       
+    </section>
+
+    <section id="laboral" >
+            <div class="container col-7 my-4">
+                <div class="row"><h2 class="text-center text-success ">Datos Laborales</h2></div>
+                <div class="row">
+                    <div id="carouselExampleDark" class="carousel carousel-dark slide" data-bs-ride="carousel">
+                        <div class="carousel-indicators">
+                          <button type="button" data-bs-target="#carouselExampleDark" data-bs-slide-to="0" class="active" aria-current="true" aria-label="Slide 1"></button>
+                          <button type="button" data-bs-target="#carouselExampleDark" data-bs-slide-to="1" aria-label="Slide 2"></button>
+                          <button type="button" data-bs-target="#carouselExampleDark" data-bs-slide-to="2" aria-label="Slide 3"></button>
+                        </div>
+                        <div class="carousel-inner">
+                          <div class="carousel-item active" data-bs-interval="10000">
+                            <img src="imagenes/empresa1.jpg" class="d-block w-100" alt="...">
+                            <div class="carousel-caption d-none d-md-block">
+                              <h5>Empresa 1</h5>
+                              
+                            </div>
+                          </div>
+                          <div class="carousel-item" data-bs-interval="2000">
+                            <img src="imagenes/empresa2.jpg" class="d-block w-100" alt="...">
+                            <div class="carousel-caption d-none d-md-block">
+                              <h5>Empresa 2</h5>
+                              
+                            </div>
+                          </div>
+                          <div class="carousel-item">
+                            <img src="imagenes/empresa5.jpg" class="d-block w-100" alt="...">
+                            <div class="carousel-caption d-none d-md-block">
+                              <h5>Empresa 3</h5>
+                              
+                            </div>
+                          </div>
+                        </div>
+                        <button class="carousel-control-prev" type="button" data-bs-target="#carouselExampleDark" data-bs-slide="prev">
+                          <span class="carousel-control-prev-icon" aria-hidden="true"></span>
+                          <span class="visually-hidden">Anterior</span>
+                        </button>
+                        <button class="carousel-control-next" type="button" data-bs-target="#carouselExampleDark" data-bs-slide="next">
+                          <span class="carousel-control-next-icon" aria-hidden="true"></span>
+                          <span class="visually-hidden">Siguiente</span>
+                        </button>
+                      </div>
+                </div>
+            </div>
+    </section>
+
+    <section id="contacto" >
+        <div class="container col-7">
+            <div class="row my-4">
+                <h2 class="text-center text-warning "> Datos de contacto </h2>
+            </div>
+            <div class="row">
+                <div class="container text-center ">
+                    <a href="https://es-la.facebook.com/" target="_blank"><img class="imagen_contacto col-3"src="imagenes/facebook.png" alt=""></a>
+                    <a href="https://twitter.com/?lang=es" target="_blank"><img class="imagen_contacto"src="imagenes/twiter.png" alt=""></a> 
+                    <a href="https://www.instagram.com/" target="_blank"><img class="imagen_contacto"src="imagenes/instagram.jpg" alt=""></a> 
+                    <a href="https://ar.linkedin.com/" target="_blank"><img class="imagen_contacto"src="imagenes/linkeind.png" alt=""> </a>
+                    
+                   
+                </div>
+               
+            </div>
+        </div>
+    </section>
+    <script src="js/cv.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0-alpha1/dist/js/bootstrap.bundle.min.js" integrity="sha384-w76AqPfDkMBDXo30jS1Sgez6pr3x5MlQ1ZAGC+nuZB+EYdgRZgiwxhTBTkF7CXvN" crossorigin="anonymous"></script>
+</body>
+</html>

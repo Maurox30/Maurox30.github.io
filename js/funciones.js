@@ -1,0 +1,17 @@
+
+document.getElementById('suma').addEventListener('click',function () {
+    let numeroA=document.getElementById('numero1').value;
+    console.log("el valor del numeroA es"+numeroA);
+    let numeroB=document.getElementById('numero2').value;
+    console.log("el valor del numeroB es"+numeroB);
+    let resultado =sumar(parseInt(numeroA),parseInt(numeroB) );
+    console.log("el valor de la suma es"+resultado);
+
+    document.getElementById('resultado').innerHTML=resultado;
+    document.getElementById('caja_resultado').style.display= 'block';
+})
+
+function sumar(a,b){
+    
+    return a + b;
+}

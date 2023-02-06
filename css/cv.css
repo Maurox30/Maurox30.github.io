@@ -1,0 +1,23 @@
+.imagen_seccion{
+    width: 420px;
+    
+}
+
+.subtitulo{
+    color: darkgreen;
+}
+
+.imagen_datos{
+    width: 350px;
+    border-radius: 50%;
+    
+}
+.imagen_contacto{
+    width: 150px;
+    border-radius: 50%;
+    
+}
+
+.datos{
+    text-align: left
+}
