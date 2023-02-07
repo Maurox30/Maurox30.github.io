@@ -14,10 +14,23 @@
 }
 .imagen_contacto{
     width: 150px;
-    border-radius: 50%;
-    
+    border-radius: 50%;  
 }
 
 .datos{
     text-align: left
+}
+.imagen_datos2{
+    width: 220px;
+    border-radius: 50%;    
+}
+
+.imagen_aptitud{
+    width: 150px;
+    border-radius: 50%;    
+}
+
+.trabajo{
+    background-color: aqua;
+    margin-left: 20px;
 }
