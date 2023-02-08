@@ -22,7 +22,8 @@
 }
 .imagen_datos2{
     width: 220px;
-    border-radius: 50%;    
+    border-radius: 50%;
+    min-width: 200px;    
 }
 
 .imagen_aptitud{
@@ -33,4 +34,9 @@
 .trabajo{
     background-color: aqua;
     margin-left: 20px;
+}
+
+#box-datos{
+    /*@media (min-width: 576px);*/
+    min-width:350px; 
 }
