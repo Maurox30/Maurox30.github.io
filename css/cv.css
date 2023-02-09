@@ -8,8 +8,9 @@
 }
 
 .imagen_datos{
-    width: 350px;
+    width: 220px;
     border-radius: 50%;
+    min-width: 200px; 
     
 }
 .imagen_contacto{
@@ -38,5 +39,5 @@
 
 #box-datos{
     /*@media (min-width: 576px);*/
-    min-width:350px; 
+    min-width:300px; 
 }
