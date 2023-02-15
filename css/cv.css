@@ -38,6 +38,14 @@
 }
 
 #box-datos{
-    /*@media (min-width: 576px);*/
+    
     min-width:300px; 
+}
+
+#laboral{
+    font-family: 'Rubik', sans-serif;
+}
+
+#datos{
+    font-family: 'Rubik', sans-serif;
 }
