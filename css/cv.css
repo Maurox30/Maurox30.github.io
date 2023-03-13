@@ -19,7 +19,8 @@
 }
 
 .datos{
-    text-align: left
+    text-align: left;
+    background:rgb(177, 72, 72);
 }
 .imagen_datos2{
     width: 220px;
@@ -48,4 +49,14 @@
 
 #datos{
     font-family: 'Rubik', sans-serif;
+    background-color: ;
+}
+#caja_datos{
+    height: 50px;
+    /*background-color:blue ;*/
+}
+
+#caja_academicos{
+    height: 50px;
+    /*background-color:black ;*/
 }
