@@ -21,12 +21,12 @@ body {
 }
 
 a {
-  color: var(--color-links);
+  color: #49c5b6;
   text-decoration: none;
 }
 
 a:hover {
-  color: var(--color-links-hover);
+  color:#49c5b6;
   text-decoration: none;
 }
 
@@ -1197,9 +1197,9 @@ section {
 --------------------------------------------------------------*/
 .footer {
   overflow: hidden;
-  background: rgba(var(--color-black-rgb), 0.9);
+  background: black;
   font-size: 16px;
-  color: rgba(var(--color-white-rgb), 0.7);
+  color: #49c5b6;
 }
 
 .footer .footer-content {
@@ -1258,7 +1258,7 @@ section {
 }
 
 .footer .footer-links li a {
-  color: rgba(var(--color-white-rgb), 0.7);
+  color: #49c5b6;
 }
 
 .footer .footer-links li a:hover,
