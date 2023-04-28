@@ -602,7 +602,7 @@ section {
 }
 
 .post-entry-2.half .thumbnail {
-  flex: 0 0 50%;
+  flex: 0 0 35%;
 }
 
 @media (max-width: 768px) {
@@ -1203,7 +1203,7 @@ section {
 }
 
 .footer .footer-content {
-  padding: 60px 0;
+  padding: 20px 0;
 }
 
 .footer a.footer-link-more {
@@ -1228,7 +1228,7 @@ section {
 
 .footer .footer-heading {
   color: var(--color-white);
-  margin-bottom: 20px;
+  margin-bottom: 15px;
   padding-bottom: 10px;
   font-size: 18px;
 }
@@ -1268,7 +1268,7 @@ section {
 
 .footer .footer-legal {
   background: var(--color-black);
-  padding: 40px 0;
+  padding: 0px 0;
 }
 
 .footer .footer-legal .social-links a {
