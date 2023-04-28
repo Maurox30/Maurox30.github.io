@@ -43,49 +43,40 @@
   <!-- ======= Header ======= -->
   <header id="header" class="header d-flex align-items-center fixed-top">
     <div class="container-fluid container-xl d-flex align-items-center justify-content-between">
-
       <a href="index.html" class="logo d-flex align-items-center">
         <!-- Uncomment the line below if you also wish to use an image logo -->
         <!-- <img src="assets/img/logo.png" alt=""> -->
-        <h1>ZenBlog</h1>
+        <h1>Veterinaria Perro Feliz</h1>
       </a>
-
       <nav id="navbar" class="navbar">
         <ul>
-          <li><a href="index.html">Blog</a></li>
-          <li><a href="single-post.html">Single Post</a></li>
-          <li class="dropdown"><a href="category.html"><span>Categories</span> <i class="bi bi-chevron-down dropdown-indicator"></i></a>
+          <li><a href="index.html">Inicio</a></li>
+          <li><a href="nosotros.html">Filosofia</a></li>
+          <li class="dropdown"><a href="servicios.html"><span>Servicios</span> <i class="bi bi-chevron-down dropdown-indicator"></i></a>
             <ul>
-              <li><a href="search-result.html">Search Result</a></li>
-              <li><a href="#">Drop Down 1</a></li>
-              <li class="dropdown"><a href="#"><span>Deep Drop Down</span> <i class="bi bi-chevron-down dropdown-indicator"></i></a>
+              <li><a href="servicios.html">Clinica Medica</a></li>
+              <li><a href="#">Cirugias</a></li>
+              <li class="dropdown"><a href="#"><span>Analisis clinicos</span> <i class="bi bi-chevron-down dropdown-indicator"></i></a>
                 <ul>
-                  <li><a href="#">Deep Drop Down 1</a></li>
-                  <li><a href="#">Deep Drop Down 2</a></li>
-                  <li><a href="#">Deep Drop Down 3</a></li>
-                  <li><a href="#">Deep Drop Down 4</a></li>
-                  <li><a href="#">Deep Drop Down 5</a></li>
+                  <li><a href="#">Análisi de orina</a></li>
+                  <li><a href="#">Análisis de sangre</a></li>
+                  <li><a href="#">Laringoscopia</a></li>
+                  <li><a href="#">Electrocardiogramas</a></li>              
+                  <li><a href="#">Ecografias</a></li>
                 </ul>
               </li>
-              <li><a href="#">Drop Down 2</a></li>
-              <li><a href="#">Drop Down 3</a></li>
-              <li><a href="#">Drop Down 4</a></li>
-            </ul>
+              <li><a href="#">Guardia 24/7</a></li>
+              </ul>
           </li>
-
-          <li><a href="about.html">About</a></li>
-          <li><a href="contact.html">Contact</a></li>
+          <!-- <li><a href="about.html">About</a></li> -->
+          <li><a href="contacto.html">Contacto</a></li>
         </ul>
       </nav><!-- .navbar -->
-
       <div class="position-relative">
         <a href="#" class="mx-2"><span class="bi-facebook"></span></a>
-        <a href="#" class="mx-2"><span class="bi-twitter"></span></a>
         <a href="#" class="mx-2"><span class="bi-instagram"></span></a>
-
         <a href="#" class="mx-2 js-search-open"><span class="bi-search"></span></a>
         <i class="bi bi-list mobile-nav-toggle"></i>
-
         <!-- ======= Search Form ======= -->
         <div class="search-form-wrap js-search-form-wrap">
           <form action="search-result.html" class="search-form">
@@ -94,11 +85,8 @@
             <button class="btn js-search-close"><span class="bi-x"></span></button>
           </form>
         </div><!-- End Search Form -->
-
       </div>
-
     </div>
-
   </header><!-- End Header -->
 
   <main id="main">
@@ -107,7 +95,7 @@
 
         <div class="row">
           <div class="col-lg-12 text-center mb-5">
-            <h1 class="page-title">Contact us</h1>
+            <h1 class="page-title">Conecta con Nosotros</h1>
           </div>
         </div>
 
@@ -116,7 +104,7 @@
           <div class="col-md-4">
             <div class="info-item">
               <i class="bi bi-geo-alt"></i>
-              <h3>Address</h3>
+              <h3>Dirección</h3>
               <address>A108 Adam Street, NY 535022, USA</address>
             </div>
           </div><!-- End Info Item -->
@@ -124,7 +112,7 @@
           <div class="col-md-4">
             <div class="info-item info-item-borders">
               <i class="bi bi-phone"></i>
-              <h3>Phone Number</h3>
+              <h3>Numero de telefono</h3>
               <p><a href="tel:+155895548855">+1 5589 55488 55</a></p>
             </div>
           </div><!-- End Info Item -->
@@ -143,24 +131,24 @@
           <form action="forms/contact.php" method="post" role="form" class="php-email-form">
             <div class="row">
               <div class="form-group col-md-6">
-                <input type="text" name="name" class="form-control" id="name" placeholder="Your Name" required>
+                <input type="text" name="name" class="form-control" id="name" placeholder="Nombre" required>
               </div>
               <div class="form-group col-md-6">
-                <input type="email" class="form-control" name="email" id="email" placeholder="Your Email" required>
+                <input type="email" class="form-control" name="email" id="email" placeholder="Email" required>
               </div>
             </div>
             <div class="form-group">
-              <input type="text" class="form-control" name="subject" id="subject" placeholder="Subject" required>
+              <input type="text" class="form-control" name="subject" id="subject" placeholder="Consulta" required>
             </div>
             <div class="form-group">
-              <textarea class="form-control" name="message" rows="5" placeholder="Message" required></textarea>
+              <textarea class="form-control" name="message" rows="5" placeholder="Mensaje" required></textarea>
             </div>
             <div class="my-3">
-              <div class="loading">Loading</div>
+              <div class="loading">Cargando</div>
               <div class="error-message"></div>
-              <div class="sent-message">Your message has been sent. Thank you!</div>
+              <div class="sent-message">Tu mensaje fue enviado . Gracias por contactarte con nosotroso</div>
             </div>
-            <div class="text-center"><button type="submit">Send Message</button></div>
+            <div class="text-center"><button type="submit">Enviar Mensaje</button></div>
           </form>
         </div><!-- End Contact Form -->
 
@@ -171,127 +159,102 @@
 
   <!-- ======= Footer ======= -->
   <footer id="footer" class="footer">
-
     <div class="footer-content">
       <div class="container">
-
         <div class="row g-5">
-          <div class="col-lg-4">
-            <h3 class="footer-heading">About ZenBlog</h3>
-            <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Magnam ab, perspiciatis beatae autem deleniti voluptate nulla a dolores, exercitationem eveniet libero laudantium recusandae officiis qui aliquid blanditiis omnis quae. Explicabo?</p>
-            <p><a href="about.html" class="footer-link-more">Learn More</a></p>
-          </div>
-          <div class="col-6 col-lg-2">
-            <h3 class="footer-heading">Navigation</h3>
+          
+          <div class="col-6 col-lg-4">
+            
             <ul class="footer-links list-unstyled">
-              <li><a href="index.html"><i class="bi bi-chevron-right"></i> Home</a></li>
-              <li><a href="index.html"><i class="bi bi-chevron-right"></i> Blog</a></li>
-              <li><a href="category.html"><i class="bi bi-chevron-right"></i> Categories</a></li>
-              <li><a href="single-post.html"><i class="bi bi-chevron-right"></i> Single Post</a></li>
-              <li><a href="about.html"><i class="bi bi-chevron-right"></i> About us</a></li>
-              <li><a href="contact.html"><i class="bi bi-chevron-right"></i> Contact</a></li>
+              <li><a href="index.html"><i class="bi bi-chevron-right"></i>Home</a></li>
+              
+              <li><a href="nosotros.html"><i class="bi bi-chevron-right"></i>Filosofia</a></li>
+              <li><a href="servicios.html"><i class="bi bi-chevron-right"></i>Servicio </a></li>
+              <li><a href="about.html"><i class="bi bi-chevron-right"></i>Guardia 24/7</a></li>
+              <li><a href="contact.html"><i class="bi bi-chevron-right"></i>Contacto</a></li>
             </ul>
           </div>
-          <div class="col-6 col-lg-2">
-            <h3 class="footer-heading">Categories</h3>
-            <ul class="footer-links list-unstyled">
-              <li><a href="category.html"><i class="bi bi-chevron-right"></i> Business</a></li>
-              <li><a href="category.html"><i class="bi bi-chevron-right"></i> Culture</a></li>
-              <li><a href="category.html"><i class="bi bi-chevron-right"></i> Sport</a></li>
-              <li><a href="category.html"><i class="bi bi-chevron-right"></i> Food</a></li>
-              <li><a href="category.html"><i class="bi bi-chevron-right"></i> Politics</a></li>
-              <li><a href="category.html"><i class="bi bi-chevron-right"></i> Celebrity</a></li>
-              <li><a href="category.html"><i class="bi bi-chevron-right"></i> Startups</a></li>
-              <li><a href="category.html"><i class="bi bi-chevron-right"></i> Travel</a></li>
-
-            </ul>
+          <div class="col-7 col-lg-4">
+            <h3>¿Dónde nos encontras?</h3>
+            <h4>Casa central</h4>
+            <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d58224.657804407005!2d-65.30555530000001!3d-24.20533965!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x941b0f4e8bd7a62f%3A0x315150e057f6e499!2sSan%20Salvador%20de%20Jujuy%2C%20Jujuy!5e0!3m2!1ses-419!2sar!4v1682606245305!5m2!1ses-419!2sar" width="300" height="250" style="border:0;" allowfullscreen=""  referrerpolicy="no-referrer-when-downgrade"></iframe>                
+           
           </div>
-
-          <div class="col-lg-4">
-            <h3 class="footer-heading">Recent Posts</h3>
-
-            <ul class="footer-links footer-blog-entry list-unstyled">
-              <li>
-                <a href="single-post.html" class="d-flex align-items-center">
-                  <img src="assets/img/post-sq-1.jpg" alt="" class="img-fluid me-3">
-                  <div>
-                    <div class="post-meta d-block"><span class="date">Culture</span> <span class="mx-1">&bullet;</span> <span>Jul 5th '22</span></div>
-                    <span>5 Great Startup Tips for Female Founders</span>
-                  </div>
-                </a>
-              </li>
-
-              <li>
-                <a href="single-post.html" class="d-flex align-items-center">
-                  <img src="assets/img/post-sq-2.jpg" alt="" class="img-fluid me-3">
-                  <div>
-                    <div class="post-meta d-block"><span class="date">Culture</span> <span class="mx-1">&bullet;</span> <span>Jul 5th '22</span></div>
-                    <span>What is the son of Football Coach John Gruden, Deuce Gruden doing Now?</span>
-                  </div>
-                </a>
-              </li>
-
-              <li>
-                <a href="single-post.html" class="d-flex align-items-center">
-                  <img src="assets/img/post-sq-3.jpg" alt="" class="img-fluid me-3">
-                  <div>
-                    <div class="post-meta d-block"><span class="date">Culture</span> <span class="mx-1">&bullet;</span> <span>Jul 5th '22</span></div>
-                    <span>Life Insurance And Pregnancy: A Working Mom’s Guide</span>
-                  </div>
-                </a>
-              </li>
-
-              <li>
-                <a href="single-post.html" class="d-flex align-items-center">
-                  <img src="assets/img/post-sq-4.jpg" alt="" class="img-fluid me-3">
-                  <div>
-                    <div class="post-meta d-block"><span class="date">Culture</span> <span class="mx-1">&bullet;</span> <span>Jul 5th '22</span></div>
-                    <span>How to Avoid Distraction and Stay Focused During Video Calls?</span>
-                  </div>
-                </a>
-              </li>
-
-            </ul>
-
+             
+          <div class="col-5 col-lg-4 text-center ">
+          <h3>Sucursales</h3>
+          <div>
+              Sucursal 1
+          </div>
+          <div>
+            Sucursal 2
+          </div>
+          <div>
+          Sucursal 3
+          </div>
+          <div>
+          Sucursal 4
+          </div>
           </div>
         </div>
       </div>
-    </div>
-
-    <div class="footer-legal">
-      <div class="container">
-
+      <div class="container ">
         <div class="row justify-content-between">
           <div class="col-md-6 text-center text-md-start mb-3 mb-md-0">
             <div class="copyright">
-              © Copyright <strong><span>ZenBlog</span></strong>. All Rights Reserved
+              © Copyright <strong><span>Grupo 6 Organización de Empresas </span></strong>. All Rights Reserved
             </div>
-
             <div class="credits">
               <!-- All the links in the footer should remain intact. -->
               <!-- You can delete the links only if you purchased the pro version. -->
               <!-- Licensing information: https://bootstrapmade.com/license/ -->
               <!-- Purchase the pro version with working PHP/AJAX contact form: https://bootstrapmade.com/herobiz-bootstrap-business-template/ -->
-              Designed by <a href="https://bootstrapmade.com/">BootstrapMade</a>
+              Facultad de Ingeniria - Unju</a>
             </div>
 
           </div>
 
           <div class="col-md-6">
             <div class="social-links mb-3 mb-lg-0 text-center text-md-end">
-              <a href="#" class="twitter"><i class="bi bi-twitter"></i></a>
+              
               <a href="#" class="facebook"><i class="bi bi-facebook"></i></a>
               <a href="#" class="instagram"><i class="bi bi-instagram"></i></a>
               <a href="#" class="google-plus"><i class="bi bi-skype"></i></a>
               <a href="#" class="linkedin"><i class="bi bi-linkedin"></i></a>
             </div>
+          </div>
+        </div>
+      </div>
+    </div>
+    <!-- <div class="footer-legal">
+      <div class="container">
+        <div class="row justify-content-between">
+          <div class="col-md-6 text-center text-md-start mb-3 mb-md-0">
+            <div class="copyright">
+              © Copyright <strong><span>Grupo 6 Organización de Empresas </span></strong>. All Rights Reserved
+            </div>
+            <div class="credits">
+              <!-- All the links in the footer should remain intact. -->
+              <!-- You can delete the links only if you purchased the pro version. -->
+              <!-- Licensing information: https://bootstrapmade.com/license/ -->
+              <!-- Purchase the pro version with working PHP/AJAX contact form: https://bootstrapmade.com/herobiz-bootstrap-business-template/ 
+              Facultad de Ingeniria - Unju</a>
+            </div>
 
           </div>
 
+          <div class="col-md-6">
+            <div class="social-links mb-3 mb-lg-0 text-center text-md-end">
+              
+              <a href="#" class="facebook"><i class="bi bi-facebook"></i></a>
+              <a href="#" class="instagram"><i class="bi bi-instagram"></i></a>
+              <a href="#" class="google-plus"><i class="bi bi-skype"></i></a>
+              <a href="#" class="linkedin"><i class="bi bi-linkedin"></i></a>
+            </div>
+          </div>
         </div>
-
       </div>
-    </div>
+    </div>-->
 
   </footer>
 
