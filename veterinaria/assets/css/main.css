@@ -18,6 +18,7 @@
 
 body {
   color: rgba(var(--color-primary-rgb), 1);
+  background-image: url(../img/huellas.jpg);
 }
 
 a {
@@ -57,7 +58,7 @@ section {
 
 .section-header h2 {
   font-size: 50px;
-  color: var(--color-black);
+  color: #49c5b6;
 }
 
 .section-header p {
@@ -89,7 +90,7 @@ section {
 
 .scroll-top:hover {
   background: rgba(var(--color-primary-rgb), 0.8);
-  color: #fff;
+  color: #49c5b6;
 }
 
 .scroll-top.active {
@@ -131,7 +132,7 @@ section {
   height: 90px;
   transition: all 0.5s;
   z-index: 997;
-  background: #f2f2f2;
+  background: #49c5b6;
 }
 
 .header.sticked {
@@ -165,7 +166,7 @@ section {
 }
 
 .search-form-wrap .search-form .form-control {
-  width: 300px;
+  width: 200px;
   border: none;
   box-shadow: 0 15px 20px -10px rgba(var(--color-black-rgb), 0.1);
   padding-left: 40px;
@@ -379,6 +380,7 @@ section {
     color: var(--color-primary);
     white-space: nowrap;
     transition: 0.3s;
+    color: #49c5b6;
   }
 
   .navbar a i,
@@ -392,7 +394,8 @@ section {
   .navbar .active,
   .navbar .active:focus,
   .navbar li:hover>a {
-    color: var(--color-primary);
+    /*color: var(--color-primary);*/
+    color: #49c5b6;
   }
 
   .navbar .dropdown ul,
@@ -447,7 +450,22 @@ section {
 
   .mobile-nav-active .navbar>ul {
     display: block;
+    height: max-content;
   }
+}
+
+/*--------------------------------------------------------------
+# About Us
+--------------------------------------------------------------*/
+.img-fluid{
+  margin: 20px;
+}
+
+@media (max-width: 768px) {
+  .img-fluid{
+    display: none;
+  } 
+
 }
 
 /*--------------------------------------------------------------
@@ -486,6 +504,12 @@ section {
   font-family: var(--font-secondary);
   color: rgba(var(--color-black-rgb), 0.4);
   margin-bottom: 10px;
+}
+
+.hero-slider{
+  /*background-color: rgb(13, 90, 77);
+  background-image: url(../img/huellas1.jpg);
+  background-size: cover;*/
 }
 
 @media (max-width: 768px) {
@@ -1077,6 +1101,7 @@ section {
 .contact .info-item address,
 .contact .info-item p {
   margin-bottom: 0;
+  color: #49c5b6;
 }
 
 .contact .info-item h3 {
