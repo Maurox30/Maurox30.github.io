@@ -1410,5 +1410,11 @@ footer {
 
   .footer-distributed .footer-center i {
       margin-left: 0;
-  }
+  }  
+}
+
+.img-servcios-uno{
+	width: 30%;
+	height: 30%;
+	margin: 2%;
 }
