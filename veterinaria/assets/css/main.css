@@ -1412,3 +1412,36 @@ footer {
       margin-left: 0;
   }
 }
+
+.imagen_logo_nosotros {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  padding: 20px;
+  
+}
+
+.mapa_sucursales {
+  height: 100%;
+  width: 100%;
+  display: flex;
+/*   border: 3px dashed;
+ */  justify-content: center;
+  align-items: center;
+  padding: 30px;
+}
+
+.section_imagenes img{
+  height: 390px;
+  width: 300px;
+  margin: 15px;
+  padding: 20px;
+  display: flexbox ;
+}
+
+.titulo_ambiente {
+  display: inline;
+  text-align: center; 
+}
+
+}
