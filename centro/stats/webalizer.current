@@ -1,0 +1,1373 @@
+# Webalizer V2.23-08 Incremental Data - 08/31/2023 23:44:02
+2023 8 31 23 44 2
+2732 1607 302 50 33 83 164481707 1071 297 0 0 0
+7 2 251 1 31
+48 23 633207 28 14 13 0 0
+73 62 2989172 17 9 8 0 0
+115 101 12242202 19 17 11 0 0
+70 60 8912562 16 14 8 0 0
+14 2 32594 12 4 4 0 0
+25 7 58198 15 13 6 0 0
+93 77 8733439 16 22 12 0 0
+162 100 7138099 29 41 21 0 0
+433 9 501927 17 409 8 0 0
+46 30 3737761 16 9 9 0 0
+220 32 204491 28 200 24 0 0
+87 38 2731395 16 51 13 0 0
+24 10 72645 9 7 6 0 0
+100 88 11159747 14 16 8 0 0
+68 50 2716948 23 16 10 0 0
+52 39 2513012 18 9 8 0 0
+27 17 72075 13 16 5 0 0
+131 118 14564286 23 17 12 0 0
+45 21 1191001 16 17 5 0 0
+48 35 4230377 20 10 9 0 0
+14 6 34898 12 6 6 0 0
+39 21 857894 17 8 8 0 0
+30 18 913331 14 5 5 0 0
+87 77 9577537 19 16 10 0 0
+265 250 26701810 29 39 20 0 0
+66 51 8811689 16 14 5 0 0
+130 104 12020177 16 28 18 0 0
+48 33 882924 15 6 6 0 0
+57 45 8891533 15 8 4 0 0
+82 67 10784173 17 18 11 0 0
+33 16 570603 7 12 4 0 0
+36 9 762686 8 0 0
+74 64 9337975 15 0 0
+33 12 269281 11 0 0
+72 52 4984252 34 0 0
+27 6 50932 16 0 0
+27 3 49577 4 0 0
+48 11 89665 24 0 0
+43 20 732691 11 0 0
+84 67 8805564 23 0 0
+148 136 9988754 22 0 0
+150 138 22722621 20 0 0
+250 189 28477301 64 0 0
+134 105 5994214 19 0 0
+95 72 4360076 28 0 0
+275 89 4776352 189 0 0
+38 24 249404 11 0 0
+36 15 446979 11 0 0
+212 23 1168943 177 0 0
+370 94 6231032 279 0 0
+155 122 20532720 34 0 0
+141 129 18566288 20 0 0
+148 124 8810374 25 0 0
+89 74 5313038 17 0 0
+47 29 1760988 9 0 0
+0
+0
+0
+1607
+0
+0
+0
+0
+0
+4
+0
+0
+0
+0
+225
+0
+0
+0
+0
+0
+0
+896
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+# -urls- 
+/css/imagen/img_unidades/74fotoecon.jpg
+1 4 0 625704 0 0 0 0
+/img/plantilla/redes/icon-instagram.png
+1 59 0 130151 0 0 0 0
+/img/descubrirte/banner_descubrir(te).png
+1 20 0 33853727 0 0 0 0
+/img/ICONO_MINI_paginas_ico1.png
+1 61 0 251224 0 0 0 0
+/img/portada_redes.jpg
+1 6 0 2169526 0 0 0 0
+/economicas.html
+0 14 0 41959 9 5 0 0
+/img/index/img_unidades/Rectorado (1).jpg
+1 33 0 3988306 0 0 0 0
+/css/imagen/logounju.png
+1 34 0 4126973 0 0 0 0
+/css/descubrirte.css
+0 16 0 34336 0 0 0 0
+/img/descubrirte/img-resultados.png
+1 16 0 1075209 0 0 0 0
+/css/
+0 44 0 108369 15 10 0 0
+/img/index/img_unidades/humanidadespatio1.jpg
+1 34 0 2191519 0 0 0 0
+/css/imagen/logoeco.2a695f26.png
+1 65 0 334373 0 0 0 0
+/img/index/img_unidades/rectorado-2022-.jpg
+1 33 0 4666277 0 0 0 0
+/css/imagen/logoagra.c310c712.png
+1 60 0 754456 0 0 0 0
+/ciencias_salud.html
+0 23 0 46326 18 4 0 0
+/img/plantilla/icon-menu.png
+1 59 0 44438 0 0 0 0
+/img/descubrirte/imagen_final_cuestionario.jpg
+1 17 0 20986470 0 0 0 0
+/css/imagen/logoing.d84d6d8c.png
+1 62 0 495641 0 0 0 0
+/img/plantilla/redes/icon-twitter.png
+1 59 0 107371 0 0 0 0
+/img/index/img_unidades/74fotoecon.jpg
+1 33 0 5162775 0 0 0 0
+/humanidades.html
+0 14 0 44636 6 1 0 0
+/sedes.html
+0 20 0 48522 13 5 0 0
+/img/index/img_unidades/1488838166991.jpg
+1 33 0 3151351 0 0 0 0
+/img/descubrirte/icono_paginas_mini.png
+1 18 0 295935 0 0 0 0
+/ingenieria.html
+0 14 0 45584 7 5 0 0
+/css/imagen/Rectorado.jpg
+1 28 0 3305893 0 0 0 0
+/css/imagen/img_unidades/humanidadespatio1.jpg
+1 6 0 388171 0 0 0 0
+/css/imagen/BannerSEDES.png
+1 11 0 24844350 0 0 0 0
+/img/plantilla/redes/icon-facebook.png
+1 59 0 67148 0 0 0 0
+/agrarias.html
+0 15 0 47820 8 2 0 0
+/img/index/img_unidades/100_FotoAgrarias.jpg
+1 32 0 13023048 0 0 0 0
+/img/plantilla/logoFooter.png
+1 66 0 8110412 0 0 0 0
+/img/index/rectorado.jpg
+1 32 0 13920080 0 0 0 0
+/img/plantilla/lOGO unjU TU LUGAR BLANCO.png
+1 62 0 1396479 0 0 0 0
+/js/plantilla.js
+0 89 0 194721 0 0 0 0
+/css/plantilla.css
+0 86 0 210351 0 0 0 0
+/descubrirte.html
+0 49 0 197919 38 17 0 0
+/css/imagen/logohuma.b1e1a28f.png
+1 17 0 3289152 0 0 0 0
+/
+0 145 0 573320 116 32 0 0
+/img/index/dibujo_explorarte.png
+1 33 0 1144685 0 0 0 0
+/css/imagen/img_unidades/1488838166991.jpg
+1 7 0 666469 0 0 0 0
+/img/index/Logo_tu_lugar_left.png
+1 32 0 1746743 0 0 0 0
+/img/plantilla/redes/icon-whatsapp.png
+1 59 0 156530 0 0 0 0
+/ciencias_juridicas.html
+0 54 0 197381 50 11 0 0
+/js/explorarme_sistema.js
+0 16 0 28072 0 0 0 0
+/css/contenido.css
+0 63 0 221480 0 0 0 0
+/css/imagen/img_unidades/100_FotoAgrarias.jpg
+1 9 0 2982200 0 0 0 0
+/css/imagen/ICONOpaginas.png
+1 8 0 128001 0 0 0 0
+/css/imagen/logo-fi-unju-gran-formato-horizontal-3000x683.png
+1 7 0 1922636 0 0 0 0
+# End Of Table - urls
+# -sites- (monthly)
+10.2.3.52
+0 14 14 418760 1 1690977411 0 0
+/ciencias_juridicas.html
+40.77.167.202
+0 1 1 2128 1 1691460710 0 0
+/
+198.235.24.41
+0 1 1 8882 1 1693005951 0 0
+/
+181.177.14.142
+0 35 35 6061997 1 1693336560 0 0
+/agrarias.html
+51.222.253.10
+0 1 1 4117 1 1691205707 0 0
+/humanidades.html
+10.12.0.254
+0 150 150 31546408 5 1693390139 0 0
+/humanidades.html
+20.15.240.89
+0 2 2 8054 1 1691723073 0 0
+/sedes.html
+170.51.93.71
+0 21 21 1681735 1 1692998309 0 0
+/css/
+114.119.148.160
+0 1 0 2703 0 0 0 0
+-
+66.249.66.142
+0 1 0 2497 0 0 0 0
+-
+186.182.88.120
+0 1 1 4584 1 1692094865 0 0
+/agrarias.html
+186.12.112.129
+0 21 21 4060952 1 1692386803 0 0
+/descubrirte.html
+40.77.167.60
+0 1 1 4023 1 1693270404 0 0
+/ciencias_juridicas.html
+40.77.190.107
+0 1 1 6159 0 0 0 0
+-
+52.167.144.181
+0 1 0 361 0 0 0 0
+-
+186.182.88.51
+0 52 52 7430613 2 1692963110 0 0
+/css/
+23.22.35.162
+0 3 2 9937 1 1692892963 0 0
+/ciencias_salud.html
+52.167.144.190
+0 2 1 4857 1 1692844472 0 0
+/
+114.119.135.182
+0 1 0 2703 0 0 0 0
+-
+40.77.190.118
+0 1 1 5028 0 0 0 0
+-
+20.117.119.232
+0 5 0 2056 1 1693208006 0 0
+-
+20.15.240.80
+0 1 1 1827 1 1691723051 0 0
+/economicas.html
+64.227.9.52
+0 2 2 6526 1 1692957551 0 0
+/
+51.222.253.7
+0 2 1 8939 1 1693346088 0 0
+/descubrirte.html
+66.249.66.70
+0 2 0 4995 0 0 0 0
+-
+66.249.75.45
+0 4 0 7909 0 0 0 0
+-
+51.222.253.9
+0 1 1 3804 1 1691502331 0 0
+/ciencias_juridicas.html
+40.77.167.85
+0 5 0 13895 0 0 0 0
+-
+66.249.66.73
+0 3 1 9831 0 0 0 0
+-
+157.55.39.211
+0 3 3 13048 2 1693406903 0 0
+/
+54.36.148.165
+0 1 0 2504 0 0 0 0
+-
+10.2.4.205
+0 21 21 1679424 1 1691054167 0 0
+/css/
+52.167.144.136
+0 1 1 2072 1 1692974928 0 0
+/
+40.77.167.235
+0 1 1 4023 1 1691691528 0 0
+/ciencias_juridicas.html
+35.87.164.2
+0 2 2 6804 1 1691115429 0 0
+/
+181.177.14.165
+0 1 1 66519 0 0 0 0
+-
+51.222.253.12
+0 2 2 8248 2 1692432394 0 0
+/economicas.html
+66.249.66.81
+0 5 0 12488 0 0 0 0
+-
+40.77.189.103
+0 1 1 2211 0 0 0 0
+-
+107.165.134.136
+0 1 1 301 1 1691845602 0 0
+/
+66.249.66.43
+0 5 1 9792 2 1691414049 0 0
+/
+20.15.240.74
+0 1 1 2029 1 1691723083 0 0
+/humanidades.html
+193.186.4.210
+0 1 1 4525 1 1691147271 0 0
+/
+40.77.190.61
+0 1 1 5892 1 1692312429 0 0
+/css/
+95.108.213.214
+0 1 0 2560 0 0 0 0
+-
+40.77.188.45
+0 1 1 7396 0 0 0 0
+-
+207.46.13.208
+0 2 2 9264 0 0 0 0
+-
+181.177.14.152
+0 21 21 1681582 1 1691536038 0 0
+/css/
+170.51.93.172
+0 14 14 421224 1 1692180829 0 0
+/ciencias_juridicas.html
+40.77.167.75
+0 1 0 367 0 0 0 0
+-
+5.255.253.82
+0 1 1 5888 0 0 0 0
+-
+20.15.241.5
+0 1 1 6491 1 1691723063 0 0
+/descubrirte.html
+44.242.153.183
+0 2 2 6804 1 1692279162 0 0
+/
+181.177.38.240
+0 1 1 66519 0 0 0 0
+-
+13.67.221.51
+0 14 0 5890 2 1691381676 0 0
+-
+104.43.203.35
+0 2 0 3065 1 1691323398 0 0
+-
+52.167.144.19
+0 1 1 4023 1 1693085952 0 0
+/ciencias_juridicas.html
+162.19.92.108
+0 13 3 31160 1 1691455732 0 0
+/
+45.173.52.18
+0 4 4 640410 0 0 0 0
+-
+40.77.167.63
+0 2 2 8599 1 1692383087 0 0
+/ciencias_juridicas.html
+20.15.242.133
+0 1 1 4173 1 1691723115 0 0
+/humanidades.html
+170.51.169.28
+0 27 27 4066577 1 1692998422 0 0
+/sedes.html
+51.222.253.2
+0 3 2 11141 2 1693187215 0 0
+/
+186.182.88.142
+0 1 1 126861 0 0 0 0
+-
+5.45.207.82
+0 1 1 4330 1 1692916166 0 0
+/
+207.46.13.223
+0 6 6 373075 2 1692670145 0 0
+/
+20.15.240.75
+0 1 1 1621 1 1691723178 0 0
+/sedes.html
+51.222.253.4
+0 2 2 10552 2 1692198314 0 0
+/humanidades.html
+190.138.97.178
+0 14 14 418913 1 1693054593 0 0
+/ciencias_juridicas.html
+52.167.144.26
+0 1 1 2128 1 1690865185 0 0
+/
+27.115.124.118
+0 16 16 1039345 1 1691440297 0 0
+/css/
+163.172.45.102
+0 1 0 391 0 0 0 0
+-
+181.9.154.87
+0 2 2 41179 0 0 0 0
+-
+35.237.191.200
+0 2 1 6786 1 1693357066 0 0
+/
+190.220.162.117
+0 14 14 418064 1 1693225245 0 0
+/ciencias_juridicas.html
+54.36.148.220
+0 1 0 2504 0 0 0 0
+-
+186.182.88.22
+0 14 14 416755 1 1693469001 0 0
+/ciencias_juridicas.html
+54.36.148.12
+0 1 0 2504 0 0 0 0
+-
+66.249.66.200
+0 3 2 11603 2 1692814271 0 0
+/humanidades.html
+66.249.79.68
+0 11 2 29900 1 1692486297 0 0
+/
+181.209.77.170
+0 29 29 7702220 1 1693039388 0 0
+/descubrirte.html
+181.10.181.98
+0 3 3 2150830 0 0 0 0
+-
+199.47.82.21
+0 1 0 360 0 0 0 0
+-
+188.166.182.248
+0 2 2 4256 1 1692438696 0 0
+/
+13.81.5.87
+0 9 2 20823 1 1693106049 0 0
+-
+66.249.70.195
+0 2 0 4994 1 1692041939 0 0
+/
+45.84.136.135
+0 2 0 838 1 1691415743 0 0
+-
+84.17.46.229
+0 1 1 2128 1 1691470417 0 0
+/
+216.244.66.201
+0 2 1 9242 1 1691111885 0 0
+/
+20.15.241.0
+0 1 1 1624 1 1691723094 0 0
+/ciencias_salud.html
+40.77.167.141
+0 9 8 31486 3 1692721200 0 0
+/ciencias_juridicas.html
+40.77.190.56
+0 1 1 3524 1 1692960914 0 0
+/css/
+170.51.92.130
+0 1 1 804370 0 0 0 0
+-
+40.77.167.230
+0 1 1 3835 0 0 0 0
+-
+5.255.231.245
+0 1 0 2560 0 0 0 0
+-
+52.167.144.86
+0 29 27 117402 20 1692105123 0 0
+/ciencias_juridicas.html
+52.167.144.38
+0 1 1 3891 0 0 0 0
+-
+51.222.253.19
+0 2 2 8078 2 1692795768 0 0
+/ciencias_juridicas.html
+114.119.130.67
+0 1 0 2703 0 0 0 0
+-
+168.195.38.8
+0 1 1 194423 0 0 0 0
+-
+34.138.211.112
+0 2 1 8947 1 1693361385 0 0
+/descubrirte.html
+190.226.9.223
+0 24 24 1934323 1 1692954847 0 0
+/css/
+52.167.144.239
+0 3 3 725908 1 1692391348 0 0
+/
+51.222.253.8
+0 2 1 6778 1 1691823394 0 0
+/
+66.249.66.66
+0 1 1 2187 1 1692643154 0 0
+/agrarias.html
+66.249.66.2
+0 3 1 9149 0 0 0 0
+-
+54.36.148.71
+0 1 0 2504 0 0 0 0
+-
+66.249.66.161
+0 40 5 90255 10 1692991344 0 0
+/sedes.html
+27.115.124.38
+0 5 5 443928 0 0 0 0
+-
+190.52.35.118
+0 1 1 126861 0 0 0 0
+-
+186.111.169.134
+0 21 21 1679577 1 1693000993 0 0
+/css/
+40.83.2.66
+0 1 1 3860 1 1691723157 0 0
+/ciencias_juridicas.html
+66.249.66.45
+0 5 1 13735 1 1692985682 0 0
+/descubrirte.html
+216.15.151.63
+0 1 0 436 0 0 0 0
+-
+66.249.73.131
+0 33 4 72864 10 1693161274 0 0
+/descubrirte.html
+66.249.66.143
+0 2 1 7250 1 1692527559 0 0
+/
+186.182.89.178
+0 16 16 2803469 1 1693161612 0 0
+/sedes.html
+168.195.38.4
+0 2 2 388846 0 0 0 0
+-
+40.77.167.131
+0 1 1 1587 0 0 0 0
+-
+40.77.188.87
+0 1 1 4131 0 0 0 0
+-
+52.167.144.205
+0 1 0 362 0 0 0 0
+-
+27.115.124.70
+0 1 1 124703 0 0 0 0
+-
+40.77.167.27
+0 1 0 364 0 0 0 0
+-
+66.249.66.131
+0 1 0 416 0 0 0 0
+-
+52.167.144.184
+0 3 3 6653 1 1693145436 0 0
+/css/
+40.77.190.110
+0 1 1 6401 0 0 0 0
+-
+194.146.26.74
+0 20 3 34216 1 1691496664 0 0
+/
+114.119.149.78
+0 1 0 2703 0 0 0 0
+-
+186.182.88.205
+0 21 21 4098217 1 1692562389 0 0
+/ciencias_salud.html
+181.177.4.221
+0 14 14 416908 1 1691187597 0 0
+/ciencias_juridicas.html
+104.222.162.135
+0 4 3 10012 1 1691115827 0 0
+/agrarias.html
+40.77.167.255
+0 1 1 1660 1 1691124574 0 0
+/ciencias_juridicas.html
+52.167.144.230
+0 4 4 7230 1 1692959943 0 0
+/
+66.249.66.163
+0 30 5 261347 5 1692551096 0 0
+/
+66.249.73.129
+0 40 13 179570 7 1693379713 0 0
+/
+186.182.88.25
+0 17 17 1677843 1 1692180161 0 0
+/sedes.html
+57.128.87.104
+0 445 0 471036 3 1691841220 0 0
+-
+66.249.70.193
+0 6 0 15225 1 1693467332 0 0
+/sedes.html
+190.196.254.24
+0 17 17 1012942 1 1692012161 0 0
+/agrarias.html
+194.169.175.26
+0 2 0 3013 1 1693023583 0 0
+-
+54.36.148.243
+0 1 0 2504 0 0 0 0
+-
+66.249.66.4
+0 4 1 12246 1 1690915225 0 0
+/
+66.249.66.79
+0 1 0 2741 0 0 0 0
+-
+104.168.40.140
+0 1 1 2389 1 1692361641 0 0
+/
+186.157.214.13
+0 2 2 130635 0 0 0 0
+-
+72.14.201.209
+0 2 2 11211 1 1692869767 0 0
+/descubrirte.html
+37.49.230.214
+0 2 1 2538 1 1692694138 0 0
+/
+51.222.253.16
+0 1 1 4274 1 1690911674 0 0
+/
+66.249.66.17
+0 1 0 416 0 0 0 0
+-
+40.77.167.229
+0 6 6 17455 3 1692782112 0 0
+/economicas.html
+66.249.75.36
+0 2 0 4995 0 0 0 0
+-
+54.36.149.13
+0 1 0 2504 0 0 0 0
+-
+10.2.3.32
+0 40 40 8415409 1 1692042829 0 0
+/ciencias_salud.html
+66.249.66.3
+0 3 0 7735 0 0 0 0
+-
+51.222.253.5
+0 2 1 6837 1 1692157767 0 0
+/agrarias.html
+52.167.144.223
+0 2 2 7858 1 1691346056 0 0
+/ciencias_juridicas.html
+190.225.33.181
+0 3 3 580958 0 0 0 0
+-
+172.177.11.143
+0 3 1 2832 2 1690931862 0 0
+/
+52.167.144.16
+0 2 1 4292 1 1691454202 0 0
+/ciencias_salud.html
+66.249.79.66
+0 5 0 12730 0 0 0 0
+-
+85.208.96.208
+0 1 0 2410 0 0 0 0
+-
+66.249.66.135
+0 4 0 10231 0 0 0 0
+-
+194.163.155.246
+0 9 1 5416 1 1693511875 0 0
+/
+27.115.124.45
+0 9 9 2500567 0 0 0 0
+-
+40.77.188.140
+0 1 1 6499 0 0 0 0
+-
+181.10.181.120
+0 21 21 1681735 1 1692998414 0 0
+/css/
+66.249.66.136
+0 1 1 4510 1 1691619353 0 0
+/
+181.117.198.144
+0 14 14 416296 1 1691657969 0 0
+/ciencias_juridicas.html
+181.177.11.39
+0 24 24 5853667 1 1692357050 0 0
+/sedes.html
+54.190.59.251
+0 21 21 1672680 1 1691845608 0 0
+/css/
+20.15.241.13
+0 1 0 416 0 0 0 0
+-
+52.167.144.138
+0 3 3 7637 0 0 0 0
+-
+10.2.4.81
+0 42 42 3361006 2 1691054537 0 0
+/css/
+51.141.108.231
+0 1 0 417 0 0 0 0
+-
+114.119.139.70
+0 1 0 2703 0 0 0 0
+-
+66.249.66.199
+0 6 3 21981 2 1692649002 0 0
+/
+168.197.46.71
+0 13 13 414835 1 1692136453 0 0
+/ciencias_juridicas.html
+51.222.253.1
+0 2 1 6419 1 1691359104 0 0
+/economicas.html
+20.15.241.3
+0 1 1 4419 1 1691723041 0 0
+/ingenieria.html
+66.249.73.130
+0 26 5 1363361 4 1693374559 0 0
+/descubrirte.html
+172.104.168.28
+0 175 1 76570 1 1691763896 0 0
+-
+66.249.66.65
+0 1 0 416 0 0 0 0
+-
+66.249.66.22
+0 1 0 173 1 1692352396 0 0
+/descubrirte.html
+66.249.75.34
+0 2 0 5238 0 0 0 0
+-
+170.84.127.39
+0 22 22 2072991 1 1692869769 0 0
+/css/
+139.162.5.130
+0 1 1 2128 1 1693515811 0 0
+/
+35.217.51.60
+0 8 5 9916 1 1693151420 0 0
+/humanidades.html
+114.119.135.206
+0 1 0 2703 0 0 0 0
+-
+40.113.204.203
+0 1 0 416 0 0 0 0
+-
+54.36.149.1
+0 1 0 2504 0 0 0 0
+-
+66.249.88.196
+0 1 0 2756 0 0 0 0
+-
+40.77.190.120
+0 1 1 7396 0 0 0 0
+-
+10.2.2.133
+0 22 22 1695085 1 1692357847 0 0
+/css/
+66.249.66.69
+0 2 0 588 1 1691439324 0 0
+/ciencias_salud.html
+52.167.144.231
+0 2 2 8584 1 1692555649 0 0
+/ciencias_juridicas.html
+66.249.75.37
+0 1 0 416 0 0 0 0
+-
+52.167.144.211
+0 1 0 361 0 0 0 0
+-
+40.77.167.52
+0 1 1 4493 1 1693383832 0 0
+/
+52.167.144.61
+0 7 7 26771 3 1691347074 0 0
+/ciencias_salud.html
+66.249.79.67
+0 12 2 26312 2 1691563852 0 0
+/ciencias_salud.html
+181.177.6.73
+0 27 26 2116175 1 1692108320 0 0
+/ingenieria.html
+200.117.175.77
+0 14 14 418913 1 1690969767 0 0
+/ciencias_juridicas.html
+40.83.2.71
+0 1 1 1716 1 1691723146 0 0
+/ciencias_juridicas.html
+34.148.106.36
+0 2 1 6786 1 1692718558 0 0
+/
+27.115.124.53
+0 11 11 1158600 1 1691440166 0 0
+/
+190.225.24.21
+0 14 4 11897 1 1691522302 0 0
+/ciencias_salud.html
+40.77.189.213
+0 1 1 6499 0 0 0 0
+-
+66.249.66.137
+0 2 1 47457 0 0 0 0
+-
+207.46.13.229
+0 1 0 2779 0 0 0 0
+-
+20.15.240.92
+0 2 2 8719 1 1691723168 0 0
+/agrarias.html
+52.167.144.152
+0 5 5 25093 2 1691441379 0 0
+/descubrirte.html
+186.12.92.194
+0 14 14 418607 1 1691528729 0 0
+/ciencias_juridicas.html
+186.190.144.137
+0 41 41 3364348 2 1693161796 0 0
+/css/
+85.208.96.206
+0 1 0 2394 0 0 0 0
+-
+52.167.144.160
+0 2 2 7858 1 1693258745 0 0
+/ciencias_juridicas.html
+181.177.17.205
+0 2 2 388846 0 0 0 0
+-
+52.167.144.219
+0 4 4 13307 2 1691618743 0 0
+/css/
+186.12.108.170
+0 28 28 3921140 1 1691458281 0 0
+/css/
+40.77.167.73
+0 1 1 4023 1 1693428827 0 0
+/ciencias_juridicas.html
+40.77.167.51
+0 2 2 7917 1 1692210153 0 0
+/ciencias_juridicas.html
+20.15.240.101
+0 1 1 2128 1 1691723135 0 0
+/
+66.249.75.35
+0 3 0 5166 1 1692195849 0 0
+/ciencias_salud.html
+181.209.88.228
+0 29 29 2372867 2 1692993750 0 0
+/ingenieria.html
+186.111.174.200
+0 14 14 416755 1 1692464450 0 0
+/ciencias_juridicas.html
+179.48.140.76
+0 13 7 410282 0 0 0 0
+-
+185.191.171.12
+0 1 1 6372 1 1691564396 0 0
+/descubrirte.html
+20.15.240.85
+0 1 1 3768 1 1691723000 0 0
+/ciencias_salud.html
+66.249.66.203
+0 1 0 416 0 0 0 0
+-
+66.249.79.69
+0 4 4 6945 1 1691528643 0 0
+/sedes.html
+23.88.67.81
+0 2 1 2538 1 1691801243 0 0
+/
+66.249.66.162
+0 34 3 73667 7 1692741082 0 0
+/descubrirte.html
+143.42.78.181
+0 1 1 2128 1 1693103421 0 0
+/
+66.249.88.194
+0 2 0 5512 0 0 0 0
+-
+192.42.116.202
+0 1 0 362 1 1690873106 0 0
+-
+54.36.148.166
+0 1 1 3712 1 1693412035 0 0
+/ciencias_salud.html
+66.249.66.132
+0 1 0 173 1 1691252361 0 0
+/descubrirte.html
+114.119.137.43
+0 1 0 2703 0 0 0 0
+-
+27.115.124.109
+0 12 12 627715 1 1691440297 0 0
+/
+20.15.240.84
+0 1 1 3971 1 1691723125 0 0
+/economicas.html
+20.15.240.179
+0 1 1 2128 1 1691723031 0 0
+/
+52.167.144.133
+0 8 0 3328 0 0 0 0
+-
+20.15.242.138
+0 1 1 4330 1 1691723021 0 0
+/
+157.55.39.216
+0 1 1 4079 1 1692913037 0 0
+/ciencias_juridicas.html
+181.177.14.126
+0 21 21 1682347 1 1693175211 0 0
+/css/
+40.77.167.105
+0 8 0 22232 0 0 0 0
+-
+66.249.65.228
+0 1 0 172 1 1691236683 0 0
+/ciencias_salud.html
+40.77.167.225
+0 1 1 2128 1 1693426145 0 0
+/
+40.113.203.218
+0 1 0 379 0 0 0 0
+-
+107.172.123.52
+0 11 9 24601 1 1692280248 0 0
+/
+66.249.66.72
+0 4 0 10474 0 0 0 0
+-
+138.94.14.6
+0 1 1 4055 1 1692092873 0 0
+/ciencias_juridicas.html
+186.141.230.120
+0 14 14 420918 1 1691071898 0 0
+/ciencias_juridicas.html
+161.35.114.17
+0 5 1 1740 1 1692087276 0 0
+-
+72.14.201.135
+0 1 1 4525 1 1691360497 0 0
+/
+52.167.144.166
+0 10 9 44733 5 1691988009 0 0
+/descubrirte.html
+52.70.240.171
+0 1 1 4121 1 1692892960 0 0
+/humanidades.html
+170.51.188.242
+0 5 5 560414 1 1691673405 0 0
+/agrarias.html
+114.119.129.199
+0 1 0 2703 0 0 0 0
+-
+186.182.88.171
+0 16 16 2796842 1 1691440039 0 0
+/sedes.html
+20.15.241.2
+0 1 1 2217 1 1691723188 0 0
+/ingenieria.html
+138.94.12.251
+0 2 2 251564 0 0 0 0
+-
+190.225.233.180
+0 14 14 421224 1 1692367494 0 0
+/ciencias_juridicas.html
+138.94.15.13
+0 27 27 4859328 1 1693366806 0 0
+/agrarias.html
+186.111.171.202
+0 22 22 4348660 1 1693166420 0 0
+/descubrirte.html
+66.249.70.200
+0 1 0 2498 0 0 0 0
+-
+186.12.112.84
+0 5 5 2693284 0 0 0 0
+-
+198.235.24.6
+0 1 1 11045 1 1693165508 0 0
+/
+52.167.144.25
+0 5 2 11263 0 0 0 0
+-
+20.15.240.186
+0 1 1 2187 1 1691723010 0 0
+/agrarias.html
+194.169.175.93
+0 1 0 416 1 1691518332 0 0
+-
+51.222.253.6
+0 1 0 2504 0 0 0 0
+-
+66.249.66.198
+0 5 0 12971 0 0 0 0
+-
+66.249.66.141
+0 3 2 10859 2 1692649004 0 0
+/
+34.73.91.167
+0 4 2 15733 2 1693155440 0 0
+/descubrirte.html
+52.167.144.56
+0 4 0 1664 0 0 0 0
+-
+172.121.220.106
+0 1 1 301 1 1692361643 0 0
+/
+170.51.164.227
+0 12 12 415060 1 1692814393 0 0
+/ciencias_juridicas.html
+181.117.198.74
+0 14 14 418913 1 1693225063 0 0
+/ciencias_juridicas.html
+66.249.75.44
+0 3 1 4565 1 1693287093 0 0
+/ciencias_salud.html
+104.165.105.97
+0 1 1 11055 1 1691845599 0 0
+/
+66.249.66.202
+0 1 1 2128 1 1692297952 0 0
+/
+116.23.161.31
+0 1 0 416 1 1692072374 0 0
+-
+181.177.14.97
+0 1 1 97528 0 0 0 0
+-
+66.249.66.67
+0 2 0 345 2 1692988377 0 0
+/ciencias_salud.html
+186.182.88.81
+0 12 12 1521396 1 1692906385 0 0
+/
+181.177.19.245
+0 25 25 1931468 1 1692014449 0 0
+/css/
+114.119.145.22
+0 1 0 2703 0 0 0 0
+-
+40.77.189.98
+0 1 1 7396 0 0 0 0
+-
+34.220.78.215
+0 28 27 2101135 1 1692361671 0 0
+/ingenieria.html
+66.249.66.80
+0 4 0 10474 0 0 0 0
+-
+40.113.201.115
+0 1 0 416 0 0 0 0
+-
+66.249.66.44
+0 8 1 17828 3 1692558887 0 0
+/descubrirte.html
+104.143.88.250
+0 1 1 2217 1 1692361682 0 0
+/ingenieria.html
+190.52.36.48
+0 14 14 418760 1 1692690211 0 0
+/ciencias_juridicas.html
+51.222.253.15
+0 3 2 10579 2 1691811946 0 0
+/ciencias_salud.html
+52.167.144.180
+0 1 0 362 0 0 0 0
+-
+40.88.21.235
+0 2 1 2544 1 1692203332 0 0
+/
+52.167.144.140
+0 10 7 395656 1 1691934919 0 0
+/
+181.81.215.51
+0 21 21 1679577 1 1692956314 0 0
+/css/
+104.46.110.117
+0 10 1 5457 1 1691516422 0 0
+-
+66.249.70.194
+0 8 2 17185 1 1692008556 0 0
+/
+83.97.23.181
+0 11 0 3935 1 1692428054 0 0
+-
+# End Of Table - sites (monthly)
+# -sites- (daily)
+186.182.88.22
+0 14 14 416755 1 1693469001 0 0
+/ciencias_juridicas.html
+66.249.70.195
+0 1 0 2497 0 0 0 0
+-
+66.249.70.193
+0 3 0 7491 1 1693467332 0 0
+/sedes.html
+186.157.214.13
+0 2 2 130635 0 0 0 0
+-
+194.163.155.246
+0 9 1 5416 1 1693511875 0 0
+/
+139.162.5.130
+0 1 1 2128 1 1693515811 0 0
+/
+66.249.70.194
+0 3 0 5681 0 0 0 0
+-
+# End Of Table - sites (daily)
+# -referrers- 
+https://tulugar.unju.edu.ar/ciencias_juridicas.html
+0 249
+https://tulugar.unju.edu.ar/descubrirte.html
+0 155
+https://tulugar.unju.edu.ar/agrarias.html
+0 17
+http://tulugar.unju.edu.ar/css/index.css
+0 3
+http://tulugar.unju.edu.ar/ciencias_salud.html
+0 1
+http://tulugar.unju.edu.ar/
+0 60
+https://tulugar.unju.edu.ar/economicas.html
+0 5
+https://tulugar.unju.edu.ar/css/descubrirte.css
+0 20
+https://tulugar.unju.edu.ar/humanidades.html
+0 8
+http://baidu.com/
+0 3
+https://tulugar.unju.edu.ar/
+0 498
+binance.com
+0 14
+https://tulugar.unju.edu.ar/css/contenido.css
+0 63
+https://www.google.com/
+0 64
+- (Direct Request)
+0 1131
+http://tulugar.unju.edu.ar/ciencias_juridicas.html
+0 1
+https://tulugar.unju.edu.ar/img/index/img_unidades/1488838166991.jpg
+0 1
+https://lens.google.com/
+0 1
+http://tulugar.unju.edu.ar/favicon.ico
+0 1
+https://tulugar.unju.edu.ar/sedes.html
+0 42
+http://tulugar.unju.edu.ar/ingenieria.html
+0 4
+https://tulugar.unju.edu.ar/ciencias_salud.html
+0 18
+https://tulugar.unju.edu.ar/css/index.css
+0 27
+www.google.com
+0 272
+https://www.bing.com/
+0 6
+https://www.bing.com
+0 1
+https://www.canva.com/
+0 1
+http://tulugar.unju.edu.ar
+0 4
+https://www.google.com.ar/
+0 4
+https://tulugar.unju.edu.ar/ingenieria.html
+0 15
+http://tulugar.unju.edu.ar/css/contenido.css
+0 1
+http://tulugar.unju.edu.ar/sedes.html
+0 6
+https://tulugar.unju.edu.ar/index.html
+0 36
+# End Of Table - referrers
+# -agents- 
+Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+0 21
+Mozilla/5.0 (compatible;PetalBot;+https://webmaster.petalsearch.com/site/petalbot)
+0 9
+Mozilla/5.0 (compatible; YandexFavicons/1.0; +http://yandex.com/bots)
+0 1
+Mozilla/5.0 (iPhone; CPU iPhone OS 13_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.1.2 Mobile/15E148 
+0 41
+Opera/9.50 (Windows NT 5.1; U; nn)
+0 2
+Mozilla/5.0 AppleWebKit/537.36 (KHTML, like Gecko; compatible; bingbot/2.0; +http://www.bing.com/bingbot.htm) Chrome/100.0.48
+0 11
+Mozilla/5.0 (Windows NT 6.1; Win64; x64; Trident/7.0; rv:11.0) like Gecko
+0 1
+Mozilla/5.0 (Windows NT 6.2; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/30.0.1599.17 Safari/537.36
+0 1
+Mozilla/5.0 (Macintosh; Intel Mac OS X 10_9_3) AppleWebKit/537.75.14 (KHTML, like Gecko) Version/7.0.3 Safari/7046A194A
+0 3
+Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/55.0.2883.87 Safari/537.36
+0 1
+Mozilla/5.0 (compatible; DuckDuckGo-Favicons-Bot/1.0; +http://duckduckgo.com)
+0 2
+Mozilla/4.0 (compatible; ms-office; MSOffice 16)
+0 1
+Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 Edg/112.0.172
+0 4
+Mozilla/5.0 AppleWebKit/537.36 (KHTML, like Gecko; compatible; GPTBot/1.0; +https://openai.com/gptbot)
+0 21
+Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+0 11
+Mozilla/4.0 (compatible; MSIE 7.0; Windows NT 10.0; Win64; x64; Trident/7.0; .NET4.0C; .NET4.0E; Zoom 3.6.0; .NET CLR 2.0.507
+0 1
+Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.212 Safari/537.36
+0 1
+Mozilla/5.0 (Windows NT 6.1; WOW64; rv:45.0) Gecko/20100101 Firefox/45.0
+0 1
+Mozilla/5.0 AppleWebKit/537.36 (KHTML, like Gecko; compatible; bingbot/2.0; +http://www.bing.com/bingbot.htm) Chrome/112.0.0.
+0 1
+Mozilla/5.0 (Linux; Android 6.0.1; Nexus 5X Build/MMB29P) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.84 Mobile S
+0 1
+com.google.android.googlequicksearchbox/301251917 (Linux; U; Android 13; es_AR; SM-A515F; Build/TP1A.220624.014; Cronet/114.0
+0 2
+Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36 Edg/116.0.193
+0 53
+Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36 Edg/115.0.1901.183
+0 14
+Mozilla/5.0 (Linux; Android 13; SAMSUNG SM-A135M) AppleWebKit/537.36 (KHTML, like Gecko) SamsungBrowser/22.0 Chrome/111.0.556
+0 27
+Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.102 Safari/537.36
+0 2
+Mozilla/5.0 (iPhone; CPU iPhone OS 16_6 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/16.6 Mobile/15E148 Sa
+0 14
+Mozilla/5.0 (Linux; Android 10; moto e(6i)) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.101 Mobile Safari/537.36
+0 14
+Mozilla/5.0 (Windows NT 6.2; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/60.0.3112.90 Safari/537.36
+0 1
+Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/60.0.3112.113 Safari/537.36
+0 1
+Mozilla/5.0 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)
+0 82
+Mozilla/5.0 (Linux; Android 13; SM-A515F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Mobile Safari/537.36
+0 2
+Mozilla/5.0 (Macintosh; Intel Mac OS X 10_10_1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/39.0.2171.95 Safari/537.36
+0 2
+Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36
+0 158
+Mozilla/5.0 (Linux; Android 6.0.1; Nexus 5X Build/MMB29P) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.5845.110 Mobile
+0 15
+Go-http-client/1.1
+0 13
+Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/94.0.4606.85 Safari/537.36
+0 1
+Mozilla/5.0 (compatible; AhrefsBot/7.0; +http://ahrefs.com/robot/)
+0 32
+python-requests/2.28.1
+0 22
+Mozilla/5.0 (Macintosh; U; Intel Mac OS X 10_6_8; en-us) AppleWebKit/534.50 (KHTML, like Gecko) Version/5.1 Safari/534.50
+0 310
+Mozilla/5.0 (Linux; Android 7.0; SM-G892A Bulid/NRD90M; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/60.0.31
+0 1
+Googlebot-Image/1.0
+0 183
+Mozilla/5.0 (Linux; Android 6.0.1; Nexus 5X Build/MMB29P) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.5735.179 Mobile
+0 64
+Mozilla/5.0 (compatible; SemrushBot/7~bl; +http://www.semrush.com/bot.html)
+0 3
+Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Mobile Safari/537.36
+0 15
+Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:112.0) Gecko/20100101 Firefox/112.0
+0 11
+Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4240.193 Safari/537.36
+0 33
+Mozilla/5.0 (Macintosh; Intel Mac OS X 10_10_1) AppleWebKit/600.2.5 (KHTML, like Gecko) Version/8.0.2 Safari/600.2.5 (Amazonb
+0 4
+Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:77.0) Gecko/20100101 Firefox/77.0
+0 3
+Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Mobile Safari/537.36
+0 222
+Mozilla/5.0 (Windows NT 6.3; Win64; x64; rv:63.0) Gecko/20100101 Firefox/63.0
+0 9
+Mozilla/5.0 AppleWebKit/537.36 (KHTML, like Gecko; compatible; bingbot/2.0; +http://www.bing.com/bingbot.htm) Chrome/103.0.50
+0 169
+Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.129 Safari/537.36
+0 8
+Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.85 Safari/537.36
+0 14
+Mozilla/5.0 (Macintosh; Intel Mac OS X 10_9_0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/32.0.1664.3 Safari/537.36
+0 6
+Mozilla/5.0 (Windows NT 5.1; U) Opera 7.11  [en]
+0 2
+Mozilla/5.0 (Windows NT 6.2; WOW64; Trident/7.0; rv:11.0) like Gecko
+0 1
+Mozilla/5.0 (X11; Linux x86_64; rv:92.0) Gecko/20100101 Firefox/92.0
+0 49
+Mozilla/5.0 (X11; Linux x86_64; rv:106.0) Gecko/20100101 Firefox/106.0
+0 22
+Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/95.0.4638.54 Safari/537.36
+0 1
+Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+0 165
+Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko; compatible; BW/1.1; bit.ly/3eZNDnO; 699e0e12
+0 8
+Mozilla/5.0 (Linux; Android 8.0; Pixel 2 Build/OPD3.170816.012) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.88 Mo
+0 54
+Chrome Privacy Preserving Prefetch Proxy
+0 3
+Mozilla/5.0 (Linux; Android 13; SM-A515F Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome
+0 1
+Mozilla/5.0 (compatible; YandexBot/3.0; +http://yandex.com/bots)
+0 3
+python-requests/2.31.0
+0 2
+Turnitin (https://bit.ly/2UvnfoQ)
+0 1
+Mozilla/5.0 (compatible; DotBot/1.2; +https://opensiteexplorer.org/dotbot; help@moz.com)
+0 2
+Mozilla/5.0 (Linux; Android 6.0.1; Nexus 5X Build/MMB29P) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.5845.96 Mobile 
+0 9
+Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36
+0 16
+python-requests/2.27.1
+0 1
+Mozilla/5.0 (X11; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/115.0
+0 1
+Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Mobile Safari/537.36
+0 184
+Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+0 11
+ZoominfoBot (zoominfobot at zoominfo dot com)
+0 10
+Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36 OPR/100.0.0.0
+0 1
+Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36 Edg/115.0.190
+0 141
+Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36
+0 40
+python-requests/2.28.2
+0 2
+Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Mobile Safari/537.36
+0 44
+Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Mobile Safari/537.36
+0 14
+Mozlila/5.0 (Linux; Android 7.0; SM-G892A Bulid/NRD90M; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/60.0.31
+0 295
+Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+0 2
+# End Of Table - agents
+# -search strings- 
+# End Of Table - search strings
+# -usernames- 
+# End Of Table - usernames

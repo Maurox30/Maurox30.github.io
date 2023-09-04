@@ -1,0 +1,221 @@
+.explorarme {
+  color: #212529;
+}
+
+/* EFECTO salto de las IMAGENES */
+.explorarme .imgMove:hover {
+  animation: mymove 2s 1;
+}
+
+@keyframes mymove {
+  0% {
+    margin-top: 0px;
+  }
+
+  20% {
+    margin-top: -10px;
+  }
+
+  40% {
+    margin-top: 10px;
+  }
+
+  60% {
+    margin-top: -8px;
+  }
+
+  80% {
+    margin-top: 5px;
+  }
+
+  100% {
+    margin-top: 0px;
+  }
+}
+
+/* ============================= */
+#header_descubrirte {
+  background-image: url(../img/descubrirte/banner_descubrir\(te\).png);
+  filter: brightness(90%);
+}
+
+.explorarme .letraGrosor {
+  font-weight: 300;
+}
+
+.explorarme hr {
+  border-top: 1px solid rgba(0, 0, 0, 0.1);
+  margin: 5px 0;
+}
+
+.explorarme .btn {
+  padding: 15px 30px;
+  cursor: pointer;
+  border: 0;
+  display: inline-block;
+}
+
+.explorarme .btn_shadow:hover {
+  box-shadow: 0 5px 10px 0 rgb(0 0 0 / 16%), 0 5px 20px 0 rgb(0 0 0 / 12%);
+}
+
+.explorarme .cuerpo {
+  margin-top: 40px;
+  margin-bottom: 35px;
+  padding-inline: 15px;
+}
+
+.explorarme .cuerpo2 {
+  margin-top: 20px;
+  text-align: left;
+  padding-inline: 15px;
+}
+
+.explorarme .cuerpo2 p {
+  margin-bottom: 8px;
+}
+
+.explorarme .cuerpo2 h2 {
+  margin-bottom: 10px;
+  font-size: 1.8em;
+}
+
+/* ESTILOS PARA EL TEST (FORMULARIO) */
+.explorarme .formulario {
+  margin: 20px 5px;
+}
+
+.explorarme .formulario .linea {
+  display: flex;
+  gap: 10px;
+  align-items: flex-start;
+  margin-bottom: 15px;
+}
+
+.explorarme .formulario .linea p {
+  font-weight: 500;
+  text-align: left;
+  margin-top: 3px;
+}
+
+.explorarme .formulario input[type="checkbox"] {
+  width: 25px;
+  height: 25px;
+}
+
+.explorarme .formulario .btnResultados {
+  background-color: #4285f4;
+  color: white;
+}
+
+/* ESTILO MAS INFORMACION */
+.explorarme .cuerpo2 .masInfo {
+  font-style: oblique;
+  text-align: center;
+  margin: 10px 0;
+  height: 190px;
+}
+
+.explorarme .cuerpo2 .masInfo p {
+  margin-bottom: 25px;
+}
+
+.explorarme .cuerpo2 .masInfo img {
+  width: 80%;
+  max-width: 600px;
+}
+
+/* ESTILOS PARA EL MODAL DE RESULTADOS */
+.explorarme .popup {
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100vw;
+  height: 100vh;
+  background: rgba(0, 0, 0, 0.5);
+  display: none;
+  align-items: center;
+  justify-content: center;
+  z-index: 99;
+  overflow: auto;
+}
+
+.explorarme .popup .box {
+  box-sizing: border-box;
+  width: 100%;
+  padding: 15px;
+  max-width: 600px;
+  background-color: white;
+  text-align: left;
+  box-shadow: 0 5px 10px 0 rgb(0 0 0 / 16%), 0 5px 20px 0 rgb(0 0 0 / 12%);
+}
+
+.explorarme .popup .popupTitulo {
+  margin: 10px;
+  font-size: 1.6em;
+}
+
+.explorarme .popup .popupDesc {
+  display: flex;
+  margin: 10px;
+  font-size: 1.25em;
+  font-weight: 300;
+}
+
+.explorarme .popup .popupImg {
+  flex: 1 0 50%;
+  text-align: center;
+}
+
+.explorarme .popup .popupDesc img {
+  width: 100%;
+  max-width: 100px;
+}
+
+.explorarme .popup .resultados {
+  margin: 0px;
+}
+
+.explorarme .popup .resultados p {
+  margin: 0px;
+}
+
+.explorarme .popup .resultados a {
+  text-decoration: none;
+  color: #007bff;
+  cursor: pointer;
+}
+
+.explorarme .popup .btnVolverTest {
+  color: white;
+  background-color: #a6c;
+  margin-top: 10px;
+}
+
+progress {
+  width: 100%;
+  position: relative;
+  height: 20px;
+  margin: 0px;
+  margin-top: 0px;
+  margin-bottom: 10px;
+  background-color: #eeeeee;
+}
+
+progress::-webkit-progress-bar {
+  background-color: #eeeeee;
+}
+
+progress::-webkit-progress-value {
+  background-color: #a6c !important;
+}
+
+progress::before {
+  content: attr(data-valor);
+  position: absolute;
+  top: 50%;
+  transform: translate(0%, -50%);
+  color: white;
+  padding: 3px;
+  font-size: 14px;
+}
