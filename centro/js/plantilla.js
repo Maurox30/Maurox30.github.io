@@ -46,7 +46,7 @@ document.body.insertAdjacentHTML('beforeend', `
             <p></p>
             <h3>Empresa Vinculadas</h3>
             <br>
-            <p> <h2><a href="https://syncrotech.com.ar"> Syncrotech </a></p></h2>
+            <p> <h2><a href="https://www.syncrotech.com.ar"> Syncrotech </a></p></h2>
             <p> <a href="https://leistungargentina.com.ar/es/inicio/"> Leistung</a> </p>
             <p> <a href="./index.html"> Braun </a></p>    
         
