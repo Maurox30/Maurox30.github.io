@@ -1,0 +1,23 @@
+.conte{
+    display: grid;
+    width: 80%;
+    grid-template-columns: 40% 40%;
+    grid-gap: 1rem;
+    margin-left: 10%;
+    
+}
+.conte .item{
+    width: 100%;
+}
+.conte .item img{
+    width: 60%;
+}
+@media (max-width:800px){
+
+    .conte{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 0;
+    }
+}
