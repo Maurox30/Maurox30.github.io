@@ -19,7 +19,7 @@ document.body.insertAdjacentHTML('afterbegin', `
                         <a href="./index.html" class="itemMenu">Inicio</a>
                     </div>
                     <div>
-                        <a href="./index.html" class="itemMenu">Formación</a>
+                        <a href="./formacion.html" class="itemMenu">Formación</a>
                     </div>
                     <div>
                         <a href="./index.html" class="itemMenu">Contacto</a>
