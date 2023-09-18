@@ -8,9 +8,12 @@ document.body.insertAdjacentHTML('afterbegin', `
                 <a href="./index.html" id="logoMenu">
                     <img src="./img/plantilla/logoFooter.png" alt="logoMenu">
                 </a>
+                
                 <div id="iconMenu" class="iconMenu display">
                     <img class="icon" src="./img/plantilla/icon-menu.png" alt="">
+                   
                 </div>
+                <h5> Centro de Simulación Clinica de la Universidad Nacional de Jujuy - Dr. Rene Favarolo</h5>
             </div>
 
             <div id="grupo2_menu" class="grupo2_menu flex2">
@@ -38,14 +41,12 @@ document.body.insertAdjacentHTML('beforeend', `
     <div id="footer" class="footer">
     <div class="grupo1_footer">
         <div class="box1">
-            <h3>CE.SI.PRO.S</h3>
+            <h3>Centro de Simulación Clínica de la Universidad Nacional de Jujuy - Dr. Rene Favarolo</h3>
             
-            Centro de Simulación para la Formación de Profesionales de la Salud. UNJU
             <br>
-            <br>
-            <p></p>
+           
             <h3>Empresa Vinculadas</h3>
-            <br>
+            
             <p> <h2><a href="https://www.syncrotech.com.ar"> Syncrotech </a></p></h2>
             <p> <a href="https://leistungargentina.com.ar/es/inicio/"> Leistung</a> </p>
             <p> <a href="./index.html"> Braun </a></p>    
