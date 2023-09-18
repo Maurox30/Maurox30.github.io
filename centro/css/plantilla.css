@@ -234,6 +234,11 @@ body {
     width: 100%;
   }
 
+  .header .grupo1_menu .logo h5{
+    background-color: #12a1d1;
+    display: none;
+  }
+
   .header div {
     position: relative;
   }
@@ -257,7 +262,7 @@ body {
 
   .header .flex1 {
     display: flex;
-    justify-content: space-between;
+    justify-content: start;
   }
 
   .header .flex2 {

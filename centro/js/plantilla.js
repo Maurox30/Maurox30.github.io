@@ -13,8 +13,10 @@ document.body.insertAdjacentHTML('afterbegin', `
                     <img class="icon" src="./img/plantilla/icon-menu.png" alt="">
                    
                 </div>
+                <div class="logo">
                 <h5> Centro de Simulación Clinica de la Universidad Nacional de Jujuy - Dr. Rene Favarolo</h5>
-            </div>
+                </div>
+                </div>
 
             <div id="grupo2_menu" class="grupo2_menu flex2">
                 <div class="flex2-1">
