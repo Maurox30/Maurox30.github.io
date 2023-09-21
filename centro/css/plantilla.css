@@ -90,7 +90,27 @@ body {
   padding: 0 6px;
   font-size: 18px;
   margin-right: auto;
+  overflow: hidden;
+  position: relative;
 }
+
+.header .itemMenu:hover{
+  background-color:white;
+  color: #0c7e3bc9;
+}
+
+.header .itemMenu:before {
+  
+  
+}
+.header .itemMenu span{
+ 
+}
+
+.header .itemMenu span:hover{
+  
+}
+
 
 .header .redesMenu,
 .header .iconMenu {

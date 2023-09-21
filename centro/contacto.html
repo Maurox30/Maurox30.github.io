@@ -24,7 +24,7 @@
     <!-- CSS para el INDEX -->
     <link rel="stylesheet" href="./css/index.css" />
     <link rel="stylesheet" href="./css/contenido.css">
-    <link rel="stylesheet" href="./css/formacion.css">
+    <link rel="stylesheet" href="./css/contacto.css">
 
 
     <meta name="description"
@@ -43,41 +43,106 @@
     <meta property="og:type" content="Web site" />
     <meta property="og:site_name" content="Centro de simulación" />
 
-
+    <style>
+        /* Estilos CSS para hacerlo responsivo */
+       
+        .formulario {
+            background-color: #fff;
+            border-radius: 5px;
+            padding: 20px;
+            box-shadow: 0 0 10px rgba(0, 0, 0, 0.2);
+            max-width: 400px;
+            width: 100%;
+        }
+        label {
+            display: block;
+            margin-bottom: 5px;
+            font-weight: bold;
+        }
+        input[type="text"],
+        input[type="email"],
+        textarea {
+            width: 100%;
+            padding: 10px;
+            margin-bottom: 10px;
+            border: 1px solid #ccc;
+            border-radius: 3px;
+        }
+        textarea {
+            height: 150px;
+        }
+        input[type="submit"] {
+            background-color: #007BFF;
+            color: #fff;
+            border: none;
+            padding: 10px 20px;
+            border-radius: 3px;
+            cursor: pointer;
+        }
+        input[type="submit"]:hover {
+            background-color: #0056b3;
+        }
+        .error-message {
+            color: red;
+        }
+    </style>
 
 </head>
 
 
 <body>
-  
+    <div class="contenedor_for">
+        <div class="formulario">
+            <h2>Formulario de Contacto</h2>
+            <form id="contact-form" action="mailto:maurocarrillo24@gmail.com" method="POST">
+                <label for="nombre">Nombre:</label>
+                <input type="text" id="nombre" name="nombre" placeholder="Escribe tu nombre" required>
+    
+                <label for="email">Correo Electrónico:</label>
+                <input type="email" id="email" name="email" placeholder="Escribe tu correo electrónico" required>
+    
+                <label for="asunto">Asunto:</label>
+                <input type="text" id="asunto" name="asunto" placeholder="Escribe el asunto" required>
+    
+                <label for="mensaje">Mensaje:</label>
+                <textarea id="mensaje" name="mensaje" placeholder="Escribe tu mensaje" required></textarea>
+    
+                <span class="error-message" id="error-message"></span>
+    
+                <input type="submit" value="Enviar">
+            </form>
+        </div>
+    
+        <script>
+            document.getElementById('contact-form').addEventListener('submit', function(event) {
+                const nombre = document.getElementById('nombre').value;
+                const email = document.getElementById('email').value;
+                const asunto = document.getElementById('asunto').value;
+                const mensaje = document.getElementById('mensaje').value;
+                const errorMessage = document.getElementById('error-message');
+    
+                if (nombre === '' || email === '' || asunto === '' || mensaje === '') {
+                    event.preventDefault();
+                    errorMessage.textContent = 'Por favor, completa todos los campos.';
+                } else if (!validateEmail(email)) {
+                    event.preventDefault();
+                    errorMessage.textContent = 'El correo electrónico no es válido.';
+                }
+            });
+    
+            function validateEmail(email) {
+                const emailPattern = /^[a-zA-Z0-9._-]+@[a-zA-Z0-9.-]+\.[a-zA-Z]{2,4}$/;
+                return emailPattern.test(email);
+            }
+        </script>
+   
         
     
 
 
-<div class="conte">
-    <div class="item">
-        <img src="./img/WhatsApp Image 2023-09-01 at 22.04.41 (2).jpeg"  alt="">
-        <h1>Contacto</h1>
-        <p></p>
-    </div>
-    
-    
-</div>
-<div class="conte2">
-    <div class="item2">
-        <img src="./img/WhatsApp Image 2023-09-01 at 22.04.39 (3).jpeg" alt="">
-        <div class="caja">
-            <h2>Titulo del curso</h2>
-            <p>Texto de describe el curso</p>
-            <p>Texto de describe el curso</p>
-            <p>Texto de describe el curso</p>
-            <p>Texto de describe el curso</p>
-            <p>Texto de describe el curso</p>
-        </div>
-    </div>
-</div>
 
 
+</div>
 </body>
 <script src="js/plantilla.js"></script>
 

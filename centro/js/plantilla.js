@@ -14,21 +14,19 @@ document.body.insertAdjacentHTML('afterbegin', `
                    
                 </div>
                 <div class="logo">
-                <h5> Centro de Simulación Clinica de la Universidad Nacional de Jujuy - Dr. Rene Favarolo</h5>
+                <h5> Centro de Simulación Clinica de la Universidad Nacional de Jujuy - Dr. René Favarolo</h5>
                 </div>
                 </div>
 
             <div id="grupo2_menu" class="grupo2_menu flex2">
                 <div class="flex2-1">
                     <div>
-                        <a href="./index.html" class="itemMenu">Inicio</a>
+                        <a href="./index.html" title="Inicio" class="itemMenu"><span>Inicio</span></a>
                     </div>
                     <div>
-                        <a href="./formacion.html" class="itemMenu">Formación</a>
+                        <a href="./formacion.html" class="itemMenu"><span>Formación</span></a>
                     </div>
-                    <div>
-                        <a href="./index.html" class="itemMenu">Contacto</a>
-                    </div>
+                    
                 </div>
                 
                 </div>
@@ -55,7 +53,7 @@ document.body.insertAdjacentHTML('beforeend', `
         
         </div>
         <div class="box2">
-        <h3>Conoce nuestra ubicación </h3>
+        <h3>Conocé nuestra ubicación </h3>
         <br>
         <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d454.9566014837049!2d-65.3013001468231!3d-24.18390601985303!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x941b0f46fabf40cb%3A0xf09cb7f80e4fc819!2sSede%20Escuela%20Superior%20de%20Salud%20-%20UNJu!5e0!3m2!1ses!2sar!4v1693829473630!5m2!1ses!2sar" width="400" height="200" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
         </div>
@@ -94,7 +92,7 @@ link.href = './img/plantilla/logoFooter.png';
 
 /* ======= PONER TITULO DE PAGINA (SI ESTE NO TIENE) ====== */
 
-document.title = 'Centro de Simulación'
+document.title = 'Centro de Simulación Clinica'
 
 
 /* ======= POP CERRAR EXPLORARME ====== */
