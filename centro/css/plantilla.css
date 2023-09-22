@@ -39,7 +39,7 @@ body {
 
 .header:not(.contenido .header) {
   padding: 0px;
-  background-color: #0c7e3bc9;
+  background-color: #2199a89c;
 
   /* agregado asd */
   position: sticky;
@@ -96,7 +96,7 @@ body {
 
 .header .itemMenu:hover{
   background-color:white;
-  color: #0c7e3bc9;
+  color: #2199a89c;
 }
 
 .header .itemMenu:before {
@@ -136,7 +136,7 @@ body {
 /* ======= CSS FOOTER ======== */
 
 .footer {
-  background-color: #0c7e3bc9;
+  background-color: #2199a89c;
   padding: 20px 5px 0px;
   color: white;
   
@@ -183,7 +183,7 @@ body {
   margin: 20px 0 0;
   padding: 20px 10px;
   text-align: center;
-  background-color: #0c7e3bc9;
+  background-color: #2199a89c;
   font-size: 0.9rem;
 }
 
@@ -255,7 +255,7 @@ body {
   }
 
   .header .grupo1_menu .logo h5{
-    background-color: #12a1d1;
+    background-color: #2199a89c;
     display: none;
   }
 
@@ -309,7 +309,7 @@ body {
   }
 
   .footer {
-    background-color: #0c7e3bc9;
+    background-color: #2199a89c;
     padding: 20px 0px 0px;
     color: white;
     text-align: center;
